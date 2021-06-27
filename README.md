@@ -26,3 +26,8 @@ The second image shows data for the three lots individually.
 
 ![lot_summary](https://user-images.githubusercontent.com/80054925/123559123-c01e2c80-d75f-11eb-8d17-a32824c78b8d.png)
 
+The variance of the coils is 62.29 PSI for all manufacturing lots. When looking at lots 1 and 2 individually, they have variances of 0.98 and 7.47 respectively. Lot 3 shows a much higher variance of performance of 170.29. The boxplot below shoes the differences of the lots. 
+
+![Screenshot_2](https://user-images.githubusercontent.com/80054925/123559436-9ebe4000-d761-11eb-8fc5-cf794ecfebc8.png)
+
+## T-Tests on Suspension Coils
