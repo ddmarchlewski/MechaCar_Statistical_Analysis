@@ -40,3 +40,7 @@ The image below shows the t-test for all the lots.
 Lots 1 sample mean is 1500 and a p-value of 1. There is no statistical difference between the observed sample mean and the presumed population mean. The image below shows the t-test for lot 1.
 
 ![Lot1](https://user-images.githubusercontent.com/80054925/123559632-d5e12100-d762-11eb-8dcf-052efa7bde70.png)
+
+Lot 2's results are not drastically different with a sample mean of 1500.2 and a p-value of 0.61. The sample mean and population mean are also 1500. Therefore, we cannot reject the null hypothesis. The image below shows the t-test for lot 2. 
+
+![Lot2](https://user-images.githubusercontent.com/80054925/123559752-a1219980-d763-11eb-9568-498602ddc2d1.png)
