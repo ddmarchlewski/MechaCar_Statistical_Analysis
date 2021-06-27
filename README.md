@@ -44,3 +44,7 @@ Lots 1 sample mean is 1500 and a p-value of 1. There is no statistical differenc
 Lot 2's results are not drastically different with a sample mean of 1500.2 and a p-value of 0.6072. The sample mean and population mean are also 1500. Therefore, we cannot reject the null hypothesis. The image below shows the t-test for lot 2. 
 
 ![Lot2](https://user-images.githubusercontent.com/80054925/123559752-a1219980-d763-11eb-9568-498602ddc2d1.png)
+
+Lot 3 has very difference results with a sample mean of 1496.14 and a p-value of 0.04. This is lower than the common significance level of 0.05 and that the null hypothesis can be rejected. The image below shows the t-test for lot 3. 
+
+![Lot3](https://user-images.githubusercontent.com/80054925/123559847-2e64ee00-d764-11eb-96ea-982b75286ddc.png)
