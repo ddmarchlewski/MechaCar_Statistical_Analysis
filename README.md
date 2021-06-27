@@ -48,3 +48,7 @@ Lot 2's results are not drastically different with a sample mean of 1500.2 and a
 Lot 3 has very difference results with a sample mean of 1496.14 and a p-value of 0.04. This is lower than the common significance level of 0.05 and that the null hypothesis can be rejected. The image below shows the t-test for lot 3. 
 
 ![Lot3](https://user-images.githubusercontent.com/80054925/123559847-2e64ee00-d764-11eb-96ea-982b75286ddc.png)
+
+## Study Design: MechaCar vs Competition
+
+When purchasing a car, there are lots of factors to consider. One factor maybe for some people would be how much horsepower a vehicle has. We can see if Mechcar's are different from its competition by using our tests. Our null hypothesis would be that MechaCar is not different from its competitors and we will test this by gathering data from other competitor cars. Finally, by using our t-test, we would look at the population of cars from the competitors and compare it to MechaCar.  
