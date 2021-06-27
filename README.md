@@ -10,3 +10,5 @@
 - Is the slope of the linear model considered to be zero? Why or why not?
 
   The p-value is 5.35e-11. This is less than the significance level of 0.05%. Based on this information, the slope cannot be 0. 
+
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
