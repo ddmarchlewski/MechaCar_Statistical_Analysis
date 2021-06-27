@@ -32,6 +32,11 @@ The variance of the coils is 62.29 PSI for all manufacturing lots. When looking 
 
 ## T-Tests on Suspension Coils
 
+The image below shows the t-test for all the lots. 
+
+![All_lots](https://user-images.githubusercontent.com/80054925/123559683-1a6cbc80-d763-11eb-9749-9177f12fa91b.png)
+
+
 Lots 1 sample mean is 1500 and a p-value of 1. There is no statistical difference between the observed sample mean and the presumed population mean. The image below shows the t-test for lot 1.
 
 ![Lot1](https://user-images.githubusercontent.com/80054925/123559632-d5e12100-d762-11eb-8dcf-052efa7bde70.png)
