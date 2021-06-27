@@ -14,3 +14,5 @@
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 The R-squared value is 0.7149. This means that about 71% of the mpg predictions will use this model and be correct. This model predicts mpg of MechaCar prototypes effectively.
+
+## Summary Statistics on Suspension Coils
